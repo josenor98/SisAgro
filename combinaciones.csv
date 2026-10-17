@@ -1,0 +1,8 @@
+combinacion,n_variables,RMSE_aleat,MAE_aleat,R2_aleat,RMSE_agrup,MAE_agrup,R2_agrup
+Solo municipio (línea base),0,0.496,0.325,0.658,0.527,0.366,0.613
+Municipio + satelital,55,0.492,0.335,0.663,0.525,0.37,0.617
+Municipio + clima,16,0.501,0.338,0.651,0.527,0.37,0.614
+Municipio + topografía y parcela,3,0.496,0.337,0.658,0.533,0.374,0.606
+Municipio + satelital + topografía,58,0.492,0.338,0.664,0.524,0.369,0.618
+Municipio + satelital + clima,71,0.494,0.335,0.66,0.524,0.368,0.619
+Municipio + todas las variables,74,0.494,0.337,0.66,0.523,0.367,0.619
